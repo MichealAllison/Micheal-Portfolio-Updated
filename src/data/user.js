@@ -73,6 +73,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://www.figma.com/proto/uJYkKD4wQWQILxPjyvtHlV/Crush-pizza?page-id=2%3A1166&node-id=2-2079&viewport=470%2C136%2C0.11&t=5ZWCoSdNlf2aPCrF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A1471&show-proto-sidebar=1",
 		},
+
+		{
+			title: "FAMEX",
+			description:
+				"DEFI Market Maker & Cryptocurrency Liquidity Provider, Facilitating seamless trading and enhancing market efficiency in decentralized finance and digital assets.",
+			linkText: "View Project",
+			link: "https://www.figma.com/proto/MV4mysojsUMckeVj9V53Xf/FAMEX?page-id=2%3A137&node-id=17-2131&viewport=137%2C380%2C0.04&t=o9BjU42EyRb7Br5t-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=17%3A2131",
+		},
 	],
 };
 
