@@ -39,7 +39,7 @@ const INFO = {
 			description:
 				"Developed an intuitive patient dashboard for streamlined healthcare management, featuring real-time updates, appointment scheduling, and personalized health tracking. Enhanced user experience through a clean, responsive interface.",
 			linkText: "View Project",
-			link: "https://vercel.com/michealallisons-projects/patient-dashboard",
+			link: "https://patient-dashboard-three.vercel.app/",
 		},
 
 		{
