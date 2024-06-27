@@ -107,6 +107,23 @@ function article_5() {
 	};
 }
 
+function article_6() {
+	return {
+		date: "20 Jun 2024",
+		title: "Invest in Yourself: The Advantages of Skill Ownership",
+		description:
+			"In the professional realm, having a specialized skill can set you apart from the competition. Employers are always on the lookout for candidates who bring something unique to the table. Skills such as digital marketing, project management, or data analysis are highly sought after and can open doors to better job opportunities and higher salaries.",
+		link: "https://medium.com/@mazitech/invest-in-yourself-the-advantages-of-skill-ownership-8c21dd4e1c20",
+		style: ``,
+		keywords: ["Invest", "Skill", "Micheal Allison", "yourself"],
+		body: (
+			<React.Fragment>
+				<h1>Content of article 2</h1>
+			</React.Fragment>
+		),
+	};
+}
+
 const myArticles = [article_1, article_2, article_3, article_4, article_5];
 
 export default myArticles;
