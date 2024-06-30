@@ -51,6 +51,14 @@ const INFO = {
 		},
 
 		{
+			title: "Umbrella Lab",
+			description:
+				"Design and Develop Umbrella Lab - is a pioneering product development studio specializing in creating innovative products utilizing Move on Aptos and other leading Layer 1 blockchain platforms. Through strategic partnerships, we focus on crafting foundational products poised to drive adoption among billions of users worldwide.",
+			linkText: "View Project",
+			link: "https://www.umbrellalabs.org/",
+		},
+
+		{
 			title: "SpaceX Rocket & Capsules Website",
 			description:
 				"Developed an intuitive dashboard for SpaceX rockets and capsules, providing real-time data, mission tracking, and performance analytics. Enhanced user experience with a clean, responsive design.",
