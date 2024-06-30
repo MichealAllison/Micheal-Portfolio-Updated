@@ -79,16 +79,32 @@ const Works = () => {
 						</div>
 
 						<div className="work">
-							<img
-								src="./swapdex.jpg"
-								alt="twitter"
-								className="work-image"
-							/>
+							<img src="" alt="" className="work-image" />
 							<div className="work-title">Quantum</div>
 							<div className="work-subtitle">
 								Frontend Web Developer
 							</div>
 							<div className="work-duration">2022</div>
+						</div>
+
+						<div className="work">
+							<img src="" alt="" className="work-image" />
+							<div className="work-title">
+								National Hosptial Abuja
+							</div>
+							<div className="work-subtitle">
+								Laboratory Intern
+							</div>
+							<div className="work-duration">2016 - 2018</div>
+						</div>
+
+						<div className="work">
+							<img src="" alt="" className="work-image" />
+							<div className="work-title">Jollo Delivery</div>
+							<div className="work-subtitle">
+								Product Design Intern
+							</div>
+							<div className="work-duration">2016 - 2018</div>
 						</div>
 					</div>
 				}
