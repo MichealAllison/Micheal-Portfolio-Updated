@@ -43,6 +43,14 @@ const INFO = {
 		},
 
 		{
+			title: "Intergon",
+			description:
+				"Designed and Develop Intergon - aims to accelerate the adoption of the TON blockchain by providing a suite of products and services tailored for developers, businesses, and end-users. ",
+			linkText: "View Project",
+			link: "https://www.intergon.org/",
+		},
+
+		{
 			title: "SpaceX Rocket & Capsules Website",
 			description:
 				"Developed an intuitive dashboard for SpaceX rockets and capsules, providing real-time data, mission tracking, and performance analytics. Enhanced user experience with a clean, responsive design.",
