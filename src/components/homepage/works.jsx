@@ -95,7 +95,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Laboratory Intern
 							</div>
-							<div className="work-duration">2016 - 2018</div>
+							<div className="work-duration">2022</div>
 						</div>
 
 						<div className="work">
