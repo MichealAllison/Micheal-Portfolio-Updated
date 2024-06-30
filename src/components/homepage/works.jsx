@@ -77,6 +77,19 @@ const Works = () => {
 							</div>
 							<div className="work-duration">2022 - 2024</div>
 						</div>
+
+						<div className="work">
+							<img
+								src="./swapdex.jpg"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">Quantum</div>
+							<div className="work-subtitle">
+								Frontend Web Developer
+							</div>
+							<div className="work-duration">2022</div>
+						</div>
 					</div>
 				}
 			/>
